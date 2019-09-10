@@ -1,0 +1,93 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Enemy
+  - Map
+  - EnemyHP
+  - PlayerHP
+  - SmallKey
+  - UIKeyImage
+  - poisonBottleImg
+  - hpBottleImg
+  - hpBottle
+  - poisonBottle
+  - coinImg
+  - coins
+  - projectileKnife
+  - camRig
+  - enemyHpBar
+  - EnemyRanged
+  - barrel
+  - explosion
+  - Shop
+  - smokeBomb
+  - smokeBottleImg
+  - smokeBottle
+  - gameController
+  - FireTrap
+  - fireballTrap
+  - GM
+  - Boss
+  - bossProjectile
+  - bossHat
+  - bossStorm
+  - playerHpSlider
+  - UIcanvasUnderHpBar
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Player
+  - Enemy
+  - Map
+  - CameraConfiner
+  - Ray
+  - BackGroundCamera
+  - runParticles
+  - Potions
+  - bossProjectile
+  - Boss
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Map
+    uniqueID: 3910275695
+    locked: 0
+  - name: Creatyre
+    uniqueID: 3748754187
+    locked: 0
+  - name: EDA
+    uniqueID: 955650101
+    locked: 0
+  - name: InviromentDront
+    uniqueID: 9000997
+    locked: 0
+  - name: potions
+    uniqueID: 2990515655
+    locked: 0
+  - name: bossProjectile
+    uniqueID: 1977213285
+    locked: 0

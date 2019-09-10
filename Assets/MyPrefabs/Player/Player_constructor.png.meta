@@ -1,0 +1,950 @@
+fileFormatVersion: 2
+guid: 66fec608c1276c44ea1cbfedc5dca46d
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 4066089397482179195
+    second: Player_constructor_0
+  - first:
+      213: -3649612155915929475
+    second: Player_constructor_1
+  - first:
+      213: 7016727572102639758
+    second: Player_constructor_2
+  - first:
+      213: 4264332776111444140
+    second: Player_constructor_3
+  - first:
+      213: 2953824255335166443
+    second: Player_constructor_4
+  - first:
+      213: -5331813531054601871
+    second: Player_constructor_5
+  - first:
+      213: 1835158882012136105
+    second: Player_constructor_6
+  - first:
+      213: 886710308201402093
+    second: Player_constructor_8
+  - first:
+      213: 134608575144806736
+    second: Player_constructor_9
+  - first:
+      213: -167731006353357558
+    second: Player_constructor_10
+  - first:
+      213: -3373219408620239470
+    second: Player_constructor_11
+  - first:
+      213: -5740019538707433519
+    second: Player_constructor_12
+  - first:
+      213: 5425954822044734104
+    second: Player_constructor_13
+  - first:
+      213: 4502610647977773175
+    second: Player_constructor_14
+  - first:
+      213: 349186173494661954
+    second: Player_constructor_15
+  - first:
+      213: 1127733501335230931
+    second: Player_constructor_16
+  - first:
+      213: -2114063726576398033
+    second: Player_constructor_17
+  - first:
+      213: -4884541289953838871
+    second: Player_constructor_18
+  - first:
+      213: 6826676193044326311
+    second: Player_constructor_19
+  - first:
+      213: 2403811652629237167
+    second: Player_constructor_20
+  - first:
+      213: -7924204363634712150
+    second: Player_constructor_21
+  - first:
+      213: 3617032870937934122
+    second: Player_constructor_22
+  - first:
+      213: 2645287507978570910
+    second: Player_constructor_23
+  - first:
+      213: 5978006615918241913
+    second: Player_constructor_24
+  - first:
+      213: 2700435787115157625
+    second: Player_constructor_25
+  - first:
+      213: -3546140130036593646
+    second: Player_constructor_26
+  - first:
+      213: -3511540704390021181
+    second: Player_constructor_27
+  - first:
+      213: -4896508465090532612
+    second: Player_constructor_28
+  - first:
+      213: 4497089310525565471
+    second: Player_constructor_29
+  - first:
+      213: 8164692901879036405
+    second: Player_constructor_30
+  - first:
+      213: -5668722209600632160
+    second: Player_constructor_31
+  - first:
+      213: -8987536447667845252
+    second: Player_constructor_32
+  - first:
+      213: -7298328874989879019
+    second: Player_constructor_33
+  - first:
+      213: -6324280906259663102
+    second: Player_constructor_34
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Player_constructor_0
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 36
+        width: 44
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e8d34c646c7b4640a5e72671280579c
+      internalID: 4066089397482179195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_constructor_1
+      rect:
+        serializedVersion: 2
+        x: 469
+        y: 34
+        width: 44
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb302cc2c904f5042bbf6d5dff1bf838
+      internalID: -3649612155915929475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_constructor_2
+      rect:
+        serializedVersion: 2
+        x: 531
+        y: 34
+        width: 44
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 211770efd6e034848818865613018dbb
+      internalID: 7016727572102639758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_constructor_3
+      rect:
+        serializedVersion: 2
+        x: 588
+        y: 36
+        width: 47
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 525f0dd4d81bf314eaeab3315e5fa0cb
+      internalID: 4264332776111444140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_constructor_4
+      rect:
+        serializedVersion: 2
+        x: 660
+        y: 42
+        width: 58
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e75855cf76f3dc64fb8f13979da6053c
+      internalID: 2953824255335166443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_constructor_5
+      rect:
+        serializedVersion: 2
+        x: 855
+        y: 41
+        width: 28
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5ac3d1c78a96c54db1f0576e43eceb4
+      internalID: -5331813531054601871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_constructor_6
+      rect:
+        serializedVersion: 2
+        x: 901
+        y: 43
+        width: 18
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21ddf3e8fb9d7694bab15b1dd0621799
+      internalID: 1835158882012136105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_constructor_8
+      rect:
+        serializedVersion: 2
+        x: 1026
+        y: 89
+        width: 35
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 581efe047a6912d43a18915feabea98d
+      internalID: 886710308201402093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_constructor_9
+      rect:
+        serializedVersion: 2
+        x: 1093
+        y: 38
+        width: 69
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51234a004905426458c22bee89b1c876
+      internalID: 134608575144806736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_constructor_10
+      rect:
+        serializedVersion: 2
+        x: 1245
+        y: 59
+        width: 41
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8bd376e0dee14ed42982e26eead03c05
+      internalID: -167731006353357558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_constructor_11
+      rect:
+        serializedVersion: 2
+        x: 1473
+        y: 30
+        width: 61
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e381fa111396fe341bc32c73ea3e8fb5
+      internalID: -3373219408620239470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_constructor_12
+      rect:
+        serializedVersion: 2
+        x: 1680
+        y: 8
+        width: 83
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fcc32b093a2bd3a43b10a1ff246174bd
+      internalID: -5740019538707433519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_constructor_13
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 3
+        width: 57
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b1a7c86938880e448df848652767b5d
+      internalID: 5425954822044734104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_constructor_14
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 51
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dfd6974699fe04249923ffbc0cb93cf1
+      internalID: 4502610647977773175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_constructor_15
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 48
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 985ea965e9b114d41b99223fc158b210
+      internalID: 349186173494661954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_constructor_16
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 48
+        width: 29
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d44699d612c23e745806d8bd6ad8fd2c
+      internalID: 1127733501335230931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_constructor_17
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 45
+        width: 43
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0b6d03a2d1e8a64aa229cfe84b76d62
+      internalID: -2114063726576398033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_constructor_18
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 47
+        width: 37
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fefa84b6409dc5e479aefb27ac4e6822
+      internalID: -4884541289953838871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_constructor_19
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 40
+        width: 40
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74d76cb2f9dda8f4eac1745488d12124
+      internalID: 6826676193044326311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_constructor_20
+      rect:
+        serializedVersion: 2
+        x: 750
+        y: 40
+        width: 74
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb2f09286b12e9545afec889994f6a1f
+      internalID: 2403811652629237167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_constructor_21
+      rect:
+        serializedVersion: 2
+        x: 944
+        y: 49
+        width: 7
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82a549501a0d5284f9a1d66ef94a4608
+      internalID: -7924204363634712150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_constructor_22
+      rect:
+        serializedVersion: 2
+        x: 976
+        y: 49
+        width: 7
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81d8365eb6c66044c85f74914d4ea5f4
+      internalID: 3617032870937934122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_constructor_23
+      rect:
+        serializedVersion: 2
+        x: 1015
+        y: 38
+        width: 62
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fefa34db98d24d9449d3412075bc379a
+      internalID: 2645287507978570910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_constructor_24
+      rect:
+        serializedVersion: 2
+        x: 1176
+        y: 44
+        width: 25
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d688dd4fd78ed5544be2de2fdd27b313
+      internalID: 5978006615918241913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_constructor_25
+      rect:
+        serializedVersion: 2
+        x: 1216
+        y: 60
+        width: 15
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56e09075f68af7042b8dde19480cbe67
+      internalID: 2700435787115157625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_constructor_26
+      rect:
+        serializedVersion: 2
+        x: 1310
+        y: 41
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 689f995ff8f109c4e9bd8debba8053a4
+      internalID: -3546140130036593646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_constructor_27
+      rect:
+        serializedVersion: 2
+        x: 1352
+        y: 29
+        width: 89
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0447f55e61c1ed1499d1e78c0d13fa61
+      internalID: -3511540704390021181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_constructor_28
+      rect:
+        serializedVersion: 2
+        x: 1545
+        y: 27
+        width: 62
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 249980584b1b7f847b93a2dedd41274b
+      internalID: -4896508465090532612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_constructor_29
+      rect:
+        serializedVersion: 2
+        x: 1615
+        y: 24
+        width: 41
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31743b473776e50469f7a93678642469
+      internalID: 4497089310525565471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_constructor_30
+      rect:
+        serializedVersion: 2
+        x: 1781
+        y: 14
+        width: 92
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae240c284df30d4438180c7aeda1e45d
+      internalID: 8164692901879036405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_constructor_31
+      rect:
+        serializedVersion: 2
+        x: 1885
+        y: 45
+        width: 67
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c0cdc58da6080f49bcb9a1164b5c62e
+      internalID: -5668722209600632160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_constructor_32
+      rect:
+        serializedVersion: 2
+        x: 1247
+        y: 16
+        width: 41
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6370ceb1bb9ca4439ebbc8ecb8164a8
+      internalID: -8987536447667845252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_constructor_33
+      rect:
+        serializedVersion: 2
+        x: 1452
+        y: 36
+        width: 18
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e88d498d7c6f36a42a0ccd37978c8512
+      internalID: -7298328874989879019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_constructor_34
+      rect:
+        serializedVersion: 2
+        x: 313
+        y: 13
+        width: 4
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c68b942b414188a42898a2caa08fc898
+      internalID: -6324280906259663102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: ffe38687ed0751f4f873a46ef30ecf04
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
